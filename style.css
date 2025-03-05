@@ -1,0 +1,16 @@
+.container{
+    border: solid 1px black;
+    padding: 30px;
+    margin: 0 auto;
+}
+.inner-container{
+    border: dotted 5px red;
+    padding: 20px;
+    margin: 5%;
+    font-style: italic;
+    font-size:xx-large;
+    
+}
+
+    
+    
